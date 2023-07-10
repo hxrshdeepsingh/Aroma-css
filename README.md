@@ -1,5 +1,4 @@
 # aroma-css
-Aroma CSS is a cutting-edge CSS compilation tool that automates the process of generating customized stylesheets. With a rich library of predefined styles, rules, and components, it streamlines the creation of visually stunning web designs.
-
+Aroma CSS revolutionizes web design by automating the process of generating tailored stylesheets. With a vast library of pre-built styles, rules, and components at your fingertips, unlock the ability to effortlessly create visually striking and captivating web designs. Elevate your projects with ease and efficiency using Aroma CSS.
 
 npm i aromacss
