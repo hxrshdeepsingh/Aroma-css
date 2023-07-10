@@ -1,0 +1,16 @@
+{
+  "name": "aromacss",
+  "version": "1.0.5",
+  "description": "Aroma CSS is a cutting-edge CSS compilation tool that automates the process of generating customized stylesheets. With a rich library of predefined styles, rules, and components, it streamlines the creation of visually stunning web designs. Save time and effort by letting Aroma CSS handle the CSS compilation, resulting in professional-grade stylesheets for your projects.",
+  "main": "compile.js",
+  "keywords": [
+    "Css",
+    "Framework",
+    "CSS Builder"
+  ],
+  "author": "harshdeep-singh",
+  "license": "ISC",
+  "dependencies": {
+    "purgecss": "^4.1.3"
+  }
+}
